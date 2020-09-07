@@ -1,2 +1,2 @@
-# collision_detection_algorithm
-this is an algo to detect collision between gameObject
+# p5.play-boilerplate
+Boiler plate for p5.play
